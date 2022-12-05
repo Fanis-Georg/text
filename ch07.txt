@@ -77,8 +77,6 @@
 ^[fig:xerox-parc-tab]
 ^[fig:tabs-pads-boards]
 
-![](par6edit.md){.par6Filter} 
-
 ![](apple-newton.md){.figure}
 
 ![](iphone-jobs.md){.figure}
